@@ -6,3 +6,6 @@ d=a/b
 Division code added
 
 L=a/b
+
+
+Persantage
